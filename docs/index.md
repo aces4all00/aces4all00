@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# The Blind SysAdmin
+>Brought to you by Aces4all00
 
-You can use the [editor on GitHub](https://github.com/aces4all00/aces4all00/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I am an IT Automator, Problem Solver, Solution Builder, and Advisor with strong focuses on Operations and DevOps. Much of this past year has been filled with kearning new ways to live my life after losing most of my vision, including how to continue to do the work I enjoy so much.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is a way for me to showcase and share the work I am doing now as well as to give voice to some of my current challenges as I continue to adjust to the new challenges Life has laid before me.
 
-### Markdown
+Thank you all and have a great day,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aces4all00/aces4all00/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Aces4all00
+The Blind SysAdmin
