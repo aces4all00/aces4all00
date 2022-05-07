@@ -29,7 +29,7 @@ url: "https://aces4all00.github.io/" # the base hostname & protocol for your sit
 github_username:  aces4all00
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
