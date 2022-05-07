@@ -21,9 +21,7 @@
 title: The Blind SysAdmin
 description: >- # this means to ignore newlines until "baseurl:"
   IT Automator, Problem Solver, Solution Builder, and Advisor with strong focuses 
-  on Operations and DevOps. This site has 2 purposes: To provide examples of my 
-  current skills, and; to share some of my experience as I learn new ways to do 
-  my job after losing nealy all of my vision 
+  on Operations and DevOps...who just happens to be blind.
 baseurl: "/aces4all00/" # the subpath of your site, e.g. /blog
 url: "https://aces4all00.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aces4all00
