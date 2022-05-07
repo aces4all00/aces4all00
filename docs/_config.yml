@@ -20,8 +20,10 @@
 
 title: The Blind SysAdmin
 description: >- # this means to ignore newlines until "baseurl:"
-  IT Automator, Problem Solver, Solution Builder, and Advisor with strong focuses 
-  on Operations and DevOps...who just happens to be blind.
+  This is the next step in continuing to learn new ways to live my Life
+  after losing most of my vision. It is part part portfolio, to help 
+  showcase and share some of my current woork, and part blog, to give
+  voice to some of the current challenges I am trying to tackle
 baseurl: "/aces4all00/" # the subpath of your site, e.g. /blog
 url: "https://aces4all00.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aces4all00
